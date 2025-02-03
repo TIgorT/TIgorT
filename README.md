@@ -82,7 +82,7 @@ ___
   
 - Автоатизировал 84 тестовых сценария (API и  UI), используя паттерн `Page Object` и фреймворки `Selenide`, `REST Assured`;
     
-- Оформлено [**24 issue**](https://github.com/TIgorT/CourseProjectBuyingTour/issues) по найденным дефектам
+- Оформлено [**24 issues**](https://github.com/TIgorT/CourseProjectBuyingTour/issues) по найденным дефектам
   
 - Сформирован [**отчет о проведенном тестировании**](https://github.com/TIgorT/CourseProjectBuyingTour/blob/main/documents/Report.md) с подключенным `Allure`;
   
@@ -104,7 +104,7 @@ ___
   
 - Автоатизировал 140 тестовых сценария кейса на эмуляторе Pixel 7 API 29(Android 10.0), используя паттерн `Page Object` и фреймворки `Espresso`, `Allure`;
     
-- Оформлены [**25 issue**](https://github.com/TIgorT/QADiplomMobileApplicationVH/issues) по найденным дефектам
+- Оформлены [**25 issues**](https://github.com/TIgorT/QADiplomMobileApplicationVH/issues) по найденным дефектам
   
 - Сформирован [**отчет о проведенном тестировании**](https://github.com/TIgorT/QADiplomMobileApplicationVH/blob/main/TestReport.md) с подключенным `Allure`; 
 </details> 
