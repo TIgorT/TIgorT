@@ -30,7 +30,7 @@
 ___
 
 ### Резюме
-[CV QA engineer]()
+[CV QA engineer](https://docs.google.com/document/d/12UIRHpMnVUe7QiRZgHeXaMD2Zckgtuva/edit?usp=sharing&ouid=115929443004239857805&rtpof=true&sd=true)
 ___
 
 ### Портфолио:
